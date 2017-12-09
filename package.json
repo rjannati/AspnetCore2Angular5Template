@@ -1,0 +1,25 @@
+{
+  "name": "aspnetcore2angular5template",
+  "version": "1.0.0",
+  "description": "asp.net core 2.0 template for angular spa project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjannati/AspnetCore2Angular5Template.git"
+  },
+  "author": "Ruh Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjannati/AspnetCore2Angular5Template/issues"
+  },
+  "homepage": "https://github.com/rjannati/AspnetCore2Angular5Template#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.6.0"
+  }
+}
